@@ -1,5 +1,5 @@
-import Wall
-from Tile import Tile
+import foundryMapExportParser.Wall as Wall
+from foundryMapExportParser.Tile import Tile
 
 
 class Map:

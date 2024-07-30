@@ -3,9 +3,9 @@ from typing import TextIO
 
 from version_parser import Version
 
-from Map import Map
-from Tile import Tile
-from Wall import *
+from foundryMapExportParser.Map import Map
+from foundryMapExportParser.Tile import Tile
+from foundryMapExportParser.Wall import *
 
 
 def parse_map(path_to_exported_json: TextIO, version: Version) -> Map:

@@ -5,8 +5,8 @@ from typing import TextIO
 import matplotlib.pyplot as plt
 from version_parser import Version
 
-from MapParser import parse_map
-from Wall import *
+from foundryMapExportParser.MapParser import parse_map
+from foundryMapExportParser.Wall import *
 
 
 class VIMapConverterWallStyle:
