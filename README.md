@@ -1,6 +1,6 @@
 # FoundryViMapConverter
 
-A script that converts the walls from exported FoundryVTT maps to simple high contrastgit  shapes that might help people with vision problems.
+A script that converts the walls from exported FoundryVTT maps to simple high contrast shapes that might help people with vision problems.
 
 Currently only supports exports from Foundry v11. I might have a look into changes to Foundry v12. If you like to contribute, feel welcome :)
 
